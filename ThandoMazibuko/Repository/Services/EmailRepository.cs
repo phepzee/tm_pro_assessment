@@ -49,7 +49,8 @@ namespace ThandoMazibuko.Repository.Services
 					var plainTextContent = emailBody.ToString();
 					var htmlContent = emailBody.ToString();
 					var msg = MailHelper.CreateSingleEmail(fromEmail, toEmail, subject, plainTextContent, htmlContent);
-					await client.SendEmailAsync(msg).ConfigureAwait(false);
+					var response = await client.SendEmailAsync(msg).ConfigureAwait(false);
+					emailBody.Clear();
 				}
 			}			
 		}
