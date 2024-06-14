@@ -1,0 +1,6 @@
+@ThandoMazibuko_HostAddress = http://localhost:5163
+
+GET {{ThandoMazibuko_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
