@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Source\\Repos\\tm_pro_assessment\\ThandoMazibuko\\ThandoMazibuko.csproj": {}
+    "C:\\Users\\User\\Documents\\Thando Mazibuko\\Personal Documents\\ThandoMazibuko\\ThandoMazibuko\\ThandoMazibuko.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\tm_pro_assessment\\ThandoMazibuko\\ThandoMazibuko.csproj": {
+    "C:\\Users\\User\\Documents\\Thando Mazibuko\\Personal Documents\\ThandoMazibuko\\ThandoMazibuko\\ThandoMazibuko.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\tm_pro_assessment\\ThandoMazibuko\\ThandoMazibuko.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Thando Mazibuko\\Personal Documents\\ThandoMazibuko\\ThandoMazibuko\\ThandoMazibuko.csproj",
         "projectName": "ThandoMazibuko",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\tm_pro_assessment\\ThandoMazibuko\\ThandoMazibuko.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\Thando Mazibuko\\Personal Documents\\ThandoMazibuko\\ThandoMazibuko\\ThandoMazibuko.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\tm_pro_assessment\\ThandoMazibuko\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Thando Mazibuko\\Personal Documents\\ThandoMazibuko\\ThandoMazibuko\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
